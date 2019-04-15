@@ -1,2 +1,4 @@
 # cookie-monster
-Hosts a cookie to test header length
+
+Desc: Hosts a cookie to test header length.
+Usage: ./cookie-monster.sh | nc -l -p 80
